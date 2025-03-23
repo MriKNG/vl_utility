@@ -29,6 +29,7 @@ Create Blips
 Create Radius Blips
 </p>
 
+![Thumbnail](https://i.imgur.com/y96eYFq.png)
 ## Blip and Radius Blip
 ![Blips](https://i.imgur.com/G2mZhEq.png)
 ## Ped Spawner
