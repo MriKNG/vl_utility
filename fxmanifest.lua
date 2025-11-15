@@ -1,10 +1,12 @@
 fx_version 'cerulean'
 game 'gta5'
-name 'vl_spawner'
+
+name 'vl_utility'
 description 'A resource for spawning peds / props and vehicles into your FiveM server world'
 
 author 'KNG'
-repository 'https://github.com/MriKNG/vl_spawner'
+version '1.0.0'
+repository 'https://github.com/MriKNG/vl_utility'
 
 shared_scripts {
     'shared/*.lua',
