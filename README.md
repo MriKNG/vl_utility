@@ -1,14 +1,14 @@
 <br />
 <div align="center">
   <a href="https://github.com/MriKNG">
-    <img src="https://i.imgur.com/SHfNqAb.gif" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/bMDO1fN.gif" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">FiveM Utility Resource</h3>
   <p align="center">
     <a href="https://github.com/MriKNG">Creator</a>
     |
-    <a href="https://discord.gg/playliberty">Discord</a>
+    <a href="https://discord.gg/BQRdM5u7dK">Discord</a>
   </p>
 </div>
 <div align="center">
